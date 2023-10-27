@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "Fredoka";
+  src: url("../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf") format("truetype");
+  font-weight: 400;
+ }
+
+  .landing-page {
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;  
+    font-family: "Fredoka";
+  }
+
+  .welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+  
+  .welcome_heading {
+    color: #272343;
+    font-size: 2.5rem;
+    margin: auto;
+    width: 75%;
+    text-align: center;
+  }
+  
+  .welcome_text {
+    color: #272343;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: rgba(227, 246, 245, .6);
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+  }
+  
+  .welcome_button {
+    font-family: "Fredoka";
+    font-size: 1.5em;
+    color: #272343;
+    padding: 10px 5px 10px 5px;
+    border: none;
+    background-color: rgb(255, 216, 3, .7);
+    width: 300px;
+    margin: auto;
+  }
+  
+  .image {
+      display: none;
+    }
+
+  @media only screen and (min-width: 768px ) {
+    .welcome_heading {
+      font-size: 3rem;
+    }
+    
+    .welcome_text {
+      font-size: 2rem;
+      padding: 40px;
+      width: 70%;
+    }
+    
+    .welcome_button {
+      font-size: 2rem;
+      padding: 30px 20px 30px 20px;
+    }
+  }
+
+  @media only screen and (min-width: 992px ) {
+
+    .landing-page {
+      display: flex;
+    }
+
+    .welcome {
+      width: 60%;
+    }
+    
+    .welcome_heading {
+      text-align: left;
+    }
+    
+    .welcome_text {
+      text-align: left;
+    }
+
+    .image {
+      display: block;
+      max-width: 40%;
+      max-height: 80%;
+      position: relative;
+      top: 10%;
+    }
+  } 
+
+  @media only screen and (min-width: 1200px) {
+    .welcome_heading {
+      font-size: 3.5rem;
+    }
+
+    .welcome_text {
+      font-size: 2.5rem;
+    }
+  }
