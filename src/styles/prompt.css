@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "Fredoka";
+  src: url("../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf") format("truetype");
+  font-weight: 400;
+ }
+
+  .prompt {
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;  
+    font-family: "Fredoka";
+  }
+
+  .prompt_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+  }
+  
+  .prompt_text_heading {
+    color: #272343;
+    font-size: 2.5rem;
+    margin: auto;
+    width: 75%;
+    text-align: center;
+  }
+  
+  .prompt_text_dropdown {
+    width: 60%;
+    padding: 20px;
+    background-color: rgba(227, 246, 245, .6);
+    border: none;
+    margin: auto;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .prompt_text_buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button {
+    font-family: "Fredoka";
+    font-size: 1.5em;
+    color: #272343;
+    padding: 10px 5px 10px 5px;
+    border: none;
+    background-color: rgb(255, 216, 3, .7);
+    width: 150px;
+    margin: auto;
+    text-decoration: none;
+  }
+  
+  .image {
+      display: none;
+    }
+
+  @media only screen and (min-width: 768px ) {
+    .prompt_text_heading {
+      font-size: 3rem;
+    }
+    
+    .button {
+      text-align: center;
+      font-size: 2rem;
+      width: 250px;
+      padding: 30px 20px 30px 20px;
+    }
+  }
+
+  @media only screen and (min-width: 992px ) {
+
+    .prompt {
+      display: flex;
+    }
+
+    .prompt_text_heading {
+      width: 60%
+    }
+    
+    .prompt_text_heading{
+      text-align: left;
+    }
+
+    .image {
+      display: block;
+      max-width: 40%;
+      max-height: 80%;
+      position: relative;
+      top: 10%;
+    }
+  } 
+
+  @media only screen and (min-width: 1200px) {
+    .prompt_text_heading {
+      font-size: 3.5rem;
+    }
+  }

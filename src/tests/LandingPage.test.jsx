@@ -11,13 +11,6 @@ describe("Landing Page", () => {
 
   test("heading renders correctly", () => {
     render(<LandingPage />);
-    const heading = screen.getByRole("heading");
-
-    expect(heading).toHaveTextContent("No planning? No problem.");
-  });
-
-  test("heading renders correctly", () => {
-    render(<LandingPage />);
     const heading = screen.getByText("No planning? No problem.");
 
     expect(heading).toBeInTheDocument();

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../styles/landing-page.css";
 import image from "../images/landing-page.png";
 
@@ -11,9 +12,9 @@ function LandingPage() {
           Downloadable, customisable AI-generated lesson plans for Key Stages 1
           and 2.
         </p>
-        <button className="welcome_button" type="button">
-          Let&apos;s get started.
-        </button>
+        <Link className="button" to="/year-group">
+          Lets get started
+        </Link>
       </div>
       <img className="image" src={image} alt="teacher in classroom" />
     </div>
