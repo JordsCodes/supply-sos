@@ -2,43 +2,39 @@
 
 exports[`App renders correctly 1`] = `
 <DocumentFragment>
-  <div
-    class="app"
+  <h1
+    class="heading"
   >
-    <h1
-      class="heading"
-    >
-      SupplySoS
-    </h1>
+    SupplySoS
+  </h1>
+  <div
+    class="landing-page"
+  >
     <div
-      class="landing-page"
+      class="welcome"
     >
-      <div
-        class="welcome"
+      <h2
+        class="welcome_heading"
       >
-        <h2
-          class="welcome_heading"
-        >
-          No planning? No problem.
-        </h2>
-        <p
-          class="welcome_text"
-        >
-          Downloadable, customisable AI-generated lesson plans for Key Stages 1 and 2.
-        </p>
-        <button
-          class="welcome_button"
-          type="button"
-        >
-          Let's get started.
-        </button>
-      </div>
-      <img
-        alt="teacher in classroom"
-        class="image"
-        src="landing-page.png"
-      />
+        No planning? No problem.
+      </h2>
+      <p
+        class="welcome_text"
+      >
+        Downloadable, customisable AI-generated lesson plans for Key Stages 1 and 2.
+      </p>
+      <a
+        class="button"
+        href="/year-group"
+      >
+        Let's get started
+      </a>
     </div>
+    <img
+      alt="teacher in classroom"
+      class="image"
+      src="landing-page.png"
+    />
   </div>
 </DocumentFragment>
 `;

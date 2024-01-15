@@ -5,36 +5,28 @@
 }
 
 .lesson-plan {
-  width: 90vw;
-  height: 80vh;
-  margin: 0 auto;  
+  width: 70vw;
+  height: 70vh;
   font-family: "Fredoka";
-}
-
-.lesson-plan_content {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  align-items: center;
 }
 
-.lesson-plan_content_heading {
+.lesson-plan_heading {
   color: #272343;
-  font-size: 2.5rem;
-  margin: auto;
-  width: 75%;
-  text-align: center;
-}
-
-.lesson-plan_content_text {
-  display: none;
+  font-size: 3rem;
+  margin: 0px;
 }
 
 .lesson-plan_render {
-  height: 50%;
-  background-color: rgba(227, 246, 245, .6);
+  outline: solid black;
+  background-color: white;
   margin: 20px auto;
   text-align: center;
   font-size: 32px;
+  width: 80%;
+  height: 100%;
 }
 
 .lesson-plan_buttons {
@@ -42,53 +34,4 @@
   justify-content: space-around;
   gap: 25px 10px;
   flex-wrap: wrap;
-}
-
-.button {
-  font-family: "Fredoka";
-  font-size: 1.25em;
-  text-align: center;
-  color: #272343;
-  border: none;
-  padding: 15px 5px 15px 5px;
-  background-color: rgb(255, 216, 3, .7);
-  width: 140px;
-  margin: auto;
-  text-decoration: none;
-}
-
-@media only screen and (min-width: 500px ) {
-  
-  .button {
-    font-size: 1.5em;
-    width: 200px;
-  }
-}
-
-@media only screen and (min-width: 730px ) {
-  
-  .lesson-plan_content_heading {
-    font-size: 3em;
-  }
-
-  .button {
-    font-size: 1.75em;
-    width: 250px;
-  }
-}
-
-@media only screen and (min-width: 885px ) {
-
-  .lesson-plan_render {
-    height: 70%;
-  }
-
-  
-  .lesson-plan_content_heading {
-    font-size: 3.5em;
-  }
-
-.lesson-plan_buttons {
-  flex-wrap: nowrap;
-}
 }

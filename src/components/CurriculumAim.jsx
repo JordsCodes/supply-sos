@@ -1,29 +1,18 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import Select from "react-select";
 import "../styles/prompt.css";
-import image from "../images/curriculum-aim.png";
+import FadeIn from "react-fade-in";
 
 function CurriculumAim() {
   return (
-    <div className="prompt">
-      <div className="prompt_text">
-        <h2 className="prompt_text_heading">
+    <FadeIn>
+      <div className="prompt">
+        <h2 className="prompt_heading">
           Let&apos;s finish up with the curriculum aim
         </h2>
-        <select className="prompt_text_dropdown " name="subject" id="subject">
-          <option value="">Select Curriculum Aim</option>
-        </select>
-        <div className="prompt_text_buttons">
-          <Link className="button" to="/subject">
-            Back
-          </Link>
-          <Link className="button" to="/lesson-plan">
-            Next
-          </Link>
-        </div>
+        <Select className="prompt_dropdown" placeholder="Select Topic" />
       </div>
-      <img className="image" src={image} alt="teacher in classroom" />
-    </div>
+    </FadeIn>
   );
 }
 

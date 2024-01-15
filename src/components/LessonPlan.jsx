@@ -1,33 +1,15 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../styles/lesson-plan.css";
+import FadeIn from "react-fade-in";
 
 function LessonPlan() {
   return (
-    <div className="lesson-plan">
-      <div className="lesson-plan_content">
-        <h2 className="lesson-plan_content_heading">All done!</h2>
-        <p className="lesson-plan_content_text">Bullet points go here</p>
+    <FadeIn>
+      <div className="lesson-plan">
+        <h2 className="lesson-plan_heading">All done!</h2>
+        <div className="lesson-plan_render">Lesson Plan rendered here</div>
       </div>
-      <div className="lesson-plan_render">
-        {" "}
-        Lesson plan rendered here in scrollable textbox
-      </div>
-      <div className="lesson-plan_buttons">
-        <Link className="button" to="/lesson-plan">
-          Try Again
-        </Link>
-        <Link className="button" to="/lesson-plan">
-          Low-Resource
-        </Link>
-        <Link className="button" to="/lesson-plan">
-          Download
-        </Link>
-        <Link className="button" to="/">
-          Home
-        </Link>
-      </div>
-    </div>
+    </FadeIn>
   );
 }
 

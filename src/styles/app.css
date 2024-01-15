@@ -1,17 +1,4 @@
-@font-face {
-  font-family: "IndieFlower";
-  src: url("../fonts/IndieFlower/IndieFlower-Regular.ttf") format("truetype");
+body {
+  background-color: red;
  }
 
-.heading {
-  font-family: "IndieFlower";
-  font-size: 2.5em;
-  text-align: center;
- }
-
- @media only screen and (min-width: 992px ) {
-  .heading {
-    text-align: left;
-    margin-left: 10%;
-  }
- }

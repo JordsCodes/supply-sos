@@ -1,39 +1,31 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import Select from "react-select";
 import "../styles/prompt.css";
-import image from "../images/year-group.png";
+import FadeIn from "react-fade-in";
+
+const options = [
+  { value: "Year 1", label: "Year 1" },
+  { value: "Year 2", label: "Year 2" },
+  { value: "Year 3", label: "Year 3" },
+  { value: "Year 4", label: "Year 4" },
+  { value: "Year 5", label: "Year 5" },
+  { value: "Year 6", label: "Year 6" },
+];
 
 function YearGroup() {
   return (
-    <div className="prompt">
-      <div className="prompt_text">
-        <h2 className="prompt_text_heading">
-          Which year group are you teaching?
-        </h2>
-        <select
-          className="prompt_text_dropdown "
-          name="year-group"
-          id="year-group"
+    <FadeIn>
+      <div className="prompt">
+        <h2 className="prompt_heading">Which year group are you teaching?</h2>
+        <Select
+          className="prompt_dropdown"
+          placeholder="Select Year Group"
+          options={options}
         >
-          <option value="">Select Year Group</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-          <option value="6">6</option>
-        </select>
-        <div className="prompt_text_buttons">
-          <Link className="button" to="/">
-            Back
-          </Link>
-          <Link className="button" to="/subject">
-            Next
-          </Link>
-        </div>
+          Select Year Group
+        </Select>
       </div>
-      <img className="image" src={image} alt="teacher in classroom" />
-    </div>
+    </FadeIn>
   );
 }
 

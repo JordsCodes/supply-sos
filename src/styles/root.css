@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "IndieFlower";
+    src: url("../fonts/IndieFlower/IndieFlower-Regular.ttf") format("truetype");
+}
+
+   @font-face {
+    font-family: "Fredoka";
+    src: url("../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf") format("truetype");
+    font-weight: 400;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90vh;
+}
+
+.heading {
+    font-family: "IndieFlower";
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    width: 100%;
+}
+
+.button {
+    font-family: "Fredoka";
+    color: #F2EEEE;
+    background-color: #55535B;
+    text-decoration: none;
+    width: 225px;
+    padding: 10px 20px 10px 20px;
+    font-size: 1.5em;
+    border-radius: 25px;
+    border: none;
+    border-style: solid;
+}
