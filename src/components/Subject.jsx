@@ -1,7 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Select from "react-select";
 import "../styles/prompt.css";
 import FadeIn from "react-fade-in";
+import curriculum from "../data/curriculum.json";
 
 const options = [
   { value: "English", label: "English" },
@@ -18,15 +19,27 @@ const options = [
   { value: "German", label: "German" },
 ];
 
-function Subject() {
+function Subject({ choices, setChoices, setTopics }) {
+  const handleChange = (choice) => {
+    setChoices({ ...choices, subject: choice.value });
+  };
+
+  const { yearGroup, subject } = choices;
+
+  useEffect(() => {
+    setTopics(curriculum[yearGroup][subject]);
+  });
+
   return (
     <FadeIn>
       <div className="prompt">
         <h2 className="prompt_heading">And the subject?</h2>
+        <h2 className="prompt_heading_small">And the subject?</h2>
         <Select
           className="prompt_dropdown"
           placeholder="Select Subject"
           options={options}
+          onChange={handleChange}
         />
       </div>
     </FadeIn>

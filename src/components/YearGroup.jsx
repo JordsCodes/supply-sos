@@ -12,15 +12,23 @@ const options = [
   { value: "Year 6", label: "Year 6" },
 ];
 
-function YearGroup() {
+function YearGroup({ choices, setChoices }) {
+  const handleChange = (choice) => {
+    setChoices({ ...choices, yearGroup: choice.value });
+  };
+
   return (
     <FadeIn>
       <div className="prompt">
         <h2 className="prompt_heading">Which year group are you teaching?</h2>
+        <h2 className="prompt_heading_small">
+          Which year group are you teaching?
+        </h2>
         <Select
           className="prompt_dropdown"
           placeholder="Select Year Group"
           options={options}
+          onChange={handleChange}
         >
           Select Year Group
         </Select>

@@ -1,12 +1,14 @@
 @font-face {
   font-family: "Fredoka";
-  src: url("../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf") format("truetype");
+  src: url("../fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf")
+    format("truetype");
   font-weight: 400;
 }
 
 .lesson-plan {
   width: 70vw;
   height: 70vh;
+  margin: 0px auto;
   font-family: "Fredoka";
   display: flex;
   flex-direction: column;
@@ -20,18 +22,50 @@
 }
 
 .lesson-plan_render {
-  outline: solid black;
+  box-shadow:
+    rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
+    rgb(209, 213, 219) 0px 0px 0px 1px inset;
   background-color: white;
   margin: 20px auto;
-  text-align: center;
-  font-size: 32px;
-  width: 80%;
+  font-size: 24px;
+  width: 100%;
   height: 100%;
+  margin: 20px;
 }
 
-.lesson-plan_buttons {
+.lesson-plan_loader {
   display: flex;
-  justify-content: space-around;
-  gap: 25px 10px;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  size: "80";
+  color: #272343;
+}
+
+pre {
+  white-space: pre-wrap;
+  font-family: "Fredoka";
+  color: #272343;
+  padding: 10px;
+}
+
+@media (max-width: 885px) {
+  .lesson-plan {
+    height: 50vh;
+  }
+}
+
+@media (max-width: 800px) {
+  .lesson-plan_heading {
+    color: #272343;
+    font-size: 2.5rem;
+    margin: 0px;
+  }
+}
+
+@media (max-width: 585px) {
+  .lesson-plan_heading {
+    font-size: 2rem;
+  }
 }

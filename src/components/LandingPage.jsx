@@ -7,6 +7,11 @@ function LandingPage() {
     <FadeIn>
       <div className="prompt">
         <h2 className="prompt_heading">No planning? No problem.</h2>
+        <h2 className="prompt_heading_small">
+          No planning?
+          <br /> No problem.
+        </h2>
+
         <p className="prompt_content">
           Downloadable, customisable AI-generated lesson plans for Key Stages 1
           and 2.

@@ -1,10 +1,33 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import "../styles/root.css";
 
-export default function Root() {
+function Root() {
   const location = useLocation();
   const url = location.pathname;
+
+  const [index, setIndex] = useState(0);
+
+  const prompts = [
+    "/",
+    "/year-group",
+    "/subject",
+    "/topic",
+    "/curriculum-aim",
+    "/lesson-plan",
+  ];
+
+  const goForward = () => {
+    setIndex(index + 1);
+  };
+
+  const goBack = () => {
+    setIndex(index - 1);
+  };
+
+  const goHome = () => {
+    setIndex(0);
+  };
 
   return (
     <div className="root">
@@ -14,23 +37,62 @@ export default function Root() {
       </div>
       <div className="navbar">
         {url === "/" && (
-          <Link to="year-group" className="button" type="button">
+          <Link
+            to="year-group"
+            className="button"
+            type="button"
+            onClick={goForward}
+          >
             Let&apos;s get started
           </Link>
         )}
-        <button className="button" type="button">
-          Home
-        </button>
-        <button className="button" type="button">
-          Retry
-        </button>
-        <button className="button" type="button">
-          Low-Resource
-        </button>
-        <button className="button" type="button">
-          Download
-        </button>
+        {(url === "/year-group" ||
+          url === "/subject" ||
+          url === "/topic" ||
+          url === "/curriculum-aim") && (
+          <>
+            <Link
+              onClick={goBack}
+              to={prompts[index - 1]}
+              className="button"
+              type="button"
+            >
+              Back
+            </Link>
+            <Link
+              onClick={goForward}
+              to={prompts[index + 1]}
+              className="button"
+              type="button"
+            >
+              Next
+            </Link>
+          </>
+        )}
+        {url === "/lesson-plan" && (
+          <>
+            <Link
+              to={prompts[0]}
+              className="button"
+              type="button"
+              onClick={goHome}
+            >
+              Home
+            </Link>
+            <Link to={prompts[5]} className="button" type="button">
+              Retry
+            </Link>
+            <Link to={prompts[5]} className="button" type="button">
+              Low-Resource
+            </Link>
+            <Link to={prompts[5]} className="button" type="button">
+              Download
+            </Link>
+          </>
+        )}
       </div>
     </div>
   );
 }
+
+export default Root;

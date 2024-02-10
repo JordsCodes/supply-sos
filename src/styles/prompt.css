@@ -17,6 +17,14 @@
   .prompt_heading {
     color: #272343;
     font-size: 3rem;
+    text-align: center;
+  }
+
+  .prompt_heading_small {
+    color: #272343;
+    font-size: 2.5rem;
+    display: none; 
+    text-align: center;
   }
   
   .prompt_content {
@@ -39,5 +47,32 @@
     width: 80%;
     height: 50%;
   }
+
+  @media (max-width: 800px) {
+    .prompt_heading {
+        font-size: 2.2rem;
+    }
+
+    .prompt_content {
+      font-size: 1.5rem;
+    }
+  }
   
- 
+ @media (max-width: 585px) {
+  .prompt_heading {
+    display: none;
+  }
+
+  .prompt_heading_small {
+    display: inline-block;
+    font-size: 2rem;
+  }
+
+  .prompt_content {
+    font-size: 1.5rem;
+  }
+
+  .prompt_dropdown {
+    width: 90%;
+  }
+ }
