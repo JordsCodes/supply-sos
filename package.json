@@ -25,6 +25,7 @@
     "react-select": "^5.8.0",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
+    "user-event": "^4.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,8 +47,14 @@
       "last 1 safari version"
     ]
   },
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!@ngrx|(?!deck.gl)|ng-dynamic)"
+    ]
+  },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-modules-commonjs": "^7.23.3",
     "@testing-library/react": "^14.0.0",
     "dotenv-webpack": "^8.0.1",
     "eslint": "^8.52.0",

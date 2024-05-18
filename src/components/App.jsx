@@ -19,11 +19,12 @@ function App() {
   const [topics, setTopics] = useState({});
   const [curriculumAims, setCurriculumAims] = useState({});
   const [plan, setPlan] = useState({});
+  const [index, setIndex] = useState(0);
 
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <Root />,
+      element: <Root index={index} setIndex={setIndex} />,
       children: [
         {
           path: "/",

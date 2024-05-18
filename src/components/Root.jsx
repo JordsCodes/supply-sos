@@ -1,12 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import "../styles/root.css";
 
-function Root() {
+function Root({ index, setIndex }) {
   const location = useLocation();
   const url = location.pathname;
-
-  const [index, setIndex] = useState(0);
 
   const prompts = [
     "/",

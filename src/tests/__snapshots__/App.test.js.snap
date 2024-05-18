@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root"
+  >
+    <h1
+      class="heading"
+    >
+      SupplySoS
+    </h1>
+    <div
+      id="prompt"
+    >
+      <div>
+        <div
+          style="transition: opacity 400ms, transform 400ms; transform: translateY(20px); opacity: 0;"
+        >
+          <div
+            class="prompt"
+          >
+            <h2
+              class="prompt_heading"
+            >
+              No planning? No problem.
+            </h2>
+            <h2
+              class="prompt_heading_small"
+            >
+              No planning?
+              <br />
+               No problem.
+            </h2>
+            <p
+              class="prompt_content"
+            >
+              Downloadable, customisable AI-generated lesson plans for Key Stages 1 and 2.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="navbar"
+    >
+      <a
+        class="button"
+        href="/year-group"
+        type="button"
+      >
+        Let's get started
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
