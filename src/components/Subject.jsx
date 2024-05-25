@@ -2,15 +2,27 @@ import React, { useEffect } from "react";
 import Select from "react-select";
 import "../styles/prompt.css";
 import FadeIn from "react-fade-in";
-import curriculum from "../data/curriculum.json";
+import curriculum from "../constants/curriculum.json";
 
-const options = [
+const keyStageOneOptions = [
   { value: "English", label: "English" },
   { value: "Maths", label: "Maths" },
   { value: "Science", label: "Science" },
   { value: "History", label: "History" },
   { value: "Geography", label: "Geography" },
-  { value: "Computing", label: "Conputing" },
+  { value: "Computing", label: "Computing" },
+  { value: "Art and Design", label: "Art and Design" },
+  { value: "Music", label: "Music" },
+  { value: "PE", label: "PE" },
+];
+
+const keyStageTwoOptions = [
+  { value: "English", label: "English" },
+  { value: "Maths", label: "Maths" },
+  { value: "Science", label: "Science" },
+  { value: "History", label: "History" },
+  { value: "Geography", label: "Geography" },
+  { value: "Computing", label: "Computing" },
   { value: "Art and Design", label: "Art and Design" },
   { value: "Music", label: "Music" },
   { value: "PE", label: "PE" },
@@ -29,6 +41,11 @@ function Subject({ choices, setChoices, setTopics }) {
   useEffect(() => {
     setTopics(curriculum[yearGroup][subject]);
   });
+
+  const options =
+    choices.yearGroup === "Year 1" || choices.yearGroup === "Year 2"
+      ? keyStageOneOptions
+      : keyStageTwoOptions;
 
   return (
     <FadeIn>
