@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Select from "react-select";
 import "../styles/prompt.css";
 import FadeIn from "react-fade-in";
-import curriculum from "../data/curriculum.json";
+import curriculum from "../constants/curriculum.json";
 
 function Topic({ choices, setChoices, topics, setCurriculumAims }) {
   const handleChange = (choice) => {
