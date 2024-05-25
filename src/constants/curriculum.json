@@ -63,7 +63,7 @@
         "Use the grammatical terminology in English Appendix 2 in discussing their writing"
       ]
     },
-    "Mathematics": {
+    "Maths": {
       "Number - Number and Place Value": [
         "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number",
         "Count, read and write numbers to 100 in numerals; count in multiples of twos, fives and tens",
@@ -138,7 +138,7 @@
     },
     "Geography": {
       "Locational knowledge": [
-        "Name and locate the world’s seven continents and five oceans",
+        "Name and locate the world's seven continents and five oceans",
         "Name, locate and identify characteristics of the four countries and capital cities of the United Kingdom and its surrounding seas"
       ],
       "Place knowledge": [
@@ -201,6 +201,1618 @@
         "Participate in team games, developing simple tactics for attacking and defending"
       ],
       "Dance": ["Perform dances using simple movement patterns"]
+    }
+  },
+  "Year 2": {
+    "English": {
+      "Reading - Word Reading": [
+        "Continue to apply phonic knowledge and skills as the route to decode words until automatic decoding has become embedded and reading is fluent",
+        "Read accurately by blending the sounds in words that contain the graphemes taught so far, especially recognizing alternative sounds for graphemes",
+        "Read accurately words of two or more syllables that contain the same graphemes as above",
+        "Read words containing common suffixes",
+        "Read further common exception words, noting unusual correspondences between spelling and sound and where these occur in the word",
+        "Read most words quickly and accurately, without overt sounding and blending, when they have been frequently encountered",
+        "Read aloud books closely matched to their improving phonic knowledge, sounding out unfamiliar words accurately, automatically and without undue hesitation",
+        "Re-read these books to build up their fluency and confidence in word reading"
+      ],
+      "Reading - Comprehension": [
+        "Listening to, discussing and expressing views about a wide range of contemporary and classic poetry, stories and non-fiction at a level beyond that at which they can read independently",
+        "Discussing the sequence of events in books and how items of information are related",
+        "Becoming increasingly familiar with and retelling a wider range of stories, fairy stories and traditional tales",
+        "Being introduced to non-fiction books that are structured in different ways",
+        "Recognizing simple recurring literary language in stories and poetry",
+        "Discussing and clarifying the meanings of words, linking new meanings to known vocabulary",
+        "Discussing their favorite words and phrases",
+        "Continuing to build up a repertoire of poems learnt by heart, appreciating these and reciting some, with appropriate intonation to make the meaning clear",
+        "Understand both the books that they can already read accurately and fluently and those that they listen to by:",
+        "Drawing on what they already know or on background information and vocabulary provided by the teacher",
+        "Checking that the text makes sense to them as they read and correcting inaccurate reading",
+        "Making inferences on the basis of what is being said and done",
+        "Answering and asking questions",
+        "Predicting what might happen on the basis of what has been read so far",
+        "Participate in discussion about books, poems and other works that are read to them and those that they can read for themselves, taking turns and listening to what others say",
+        "Explain and discuss their understanding of books, poems and other material, both those that they listen to and those that they read for themselves"
+      ],
+      "Writing - Transcription": [
+        "Segmenting spoken words into phonemes and representing these by graphemes, spelling many correctly",
+        "Learning new ways of spelling phonemes for which one or more spellings are already known, and learn some words with each spelling, including a few common homophones",
+        "Learning to spell common exception words",
+        "Learning to spell more words with contracted forms",
+        "Learning the possessive apostrophe (singular) [for example, the girl's book]",
+        "Distinguishing between homophones and near-homophones",
+        "Add suffixes to spell longer words, including -ment, -ness, -ful, -less, -ly",
+        "Apply spelling rules and guidance, as listed in English Appendix 1",
+        "Write from memory simple sentences dictated by the teacher that include words using the GPCs, common exception words and punctuation taught so far"
+      ],
+      "Writing - Handwriting": [
+        "Form lower-case letters of the correct size relative to one another",
+        "Start using some of the diagonal and horizontal strokes needed to join letters and understand which letters, when adjacent to one another, are best left unjoined",
+        "Write capital letters and digits of the correct size, orientation and relationship to one another and to lower case letters",
+        "Use spacing between words that reflects the size of the letters"
+      ],
+      "Writing - Composition": [
+        "Writing narratives about personal experiences and those of others (real and fictional)",
+        "Writing about real events",
+        "Writing poetry",
+        "Writing for different purposes",
+        "Consider what they are going to write before beginning by:",
+        "Planning or saying out loud what they are going to write about",
+        "Writing down ideas and/or key words, including new vocabulary",
+        "Encapsulating what they want to say, sentence by sentence",
+        "Make simple additions, revisions and corrections to their own writing by:",
+        "Evaluating their writing with the teacher and other pupils",
+        "Re-reading to check that their writing makes sense and that verbs to indicate time are used correctly and consistently, including verbs in the continuous form",
+        "Proof-reading to check for errors in spelling, grammar and punctuation [for example, ends of sentences punctuated correctly]",
+        "Read aloud what they have written with appropriate intonation to make the meaning clear"
+      ],
+      "Writing - Vocabulary, Grammar and Punctuation": [
+        "Develop their understanding of the concepts set out in English Appendix 2 by:",
+        "Learning how to use both familiar and new punctuation correctly (see English Appendix 2), including full stops, capital letters, exclamation marks, question marks, commas for lists and apostrophes for contracted forms and the possessive (singular)",
+        "Learn how to use sentences with different forms: statement, question, exclamation, command",
+        "Expanded noun phrases to describe and specify [for example, the blue butterfly]",
+        "The present and past tenses correctly and consistently including the progressive form",
+        "Subordination (using when, if, that, or because) and co-ordination (using or, and, or but)",
+        "The grammar for year 2 in English Appendix 2",
+        "Some features of written Standard English",
+        "Use and understand the grammatical terminology in English Appendix 2 in discussing their writing"
+      ]
+    },
+    "Maths": {
+      "Number - Number and Place Value": [
+        "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+        "Recognise the place value of each digit in a two-digit number (tens, ones)",
+        "Identify, represent and estimate numbers using different representations, including the number line",
+        "Compare and order numbers from 0 up to 100; use <, > and = signs",
+        "Read and write numbers to at least 100 in numerals and in words",
+        "Use place value and number facts to solve problems"
+      ],
+      "Number - Addition and Subtraction": [
+        "Solve problems with addition and subtraction:",
+        "Using concrete objects and pictorial representations, including those involving numbers, quantities and measures",
+        "Applying their increasing knowledge of mental and written methods",
+        "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+        "Add and subtract numbers using concrete objects, pictorial representations, and mentally, including:",
+        "A two-digit number and ones",
+        "A two-digit number and tens",
+        "Two two-digit numbers",
+        "Adding three one-digit numbers",
+        "Show that addition of two numbers can be done in any order (commutative) and subtraction of one number from another cannot",
+        "Recognise and use the inverse relationship between addition and subtraction and use this to check calculations and solve missing number problems"
+      ],
+      "Number - Multiplication and Division": [
+        "Recall and use multiplication and division facts for the 2, 5 and 10 multiplication tables, including recognising odd and even numbers",
+        "Calculate mathematical statements for multiplication and division within the multiplication tables and write them using the multiplication (x), division (÷) and equals (=) signs",
+        "Show that multiplication of two numbers can be done in any order (commutative) and division of one number by another cannot",
+        "Solve problems involving multiplication and division, using materials, arrays, repeated addition, mental methods, and multiplication and division facts, including problems in contexts"
+      ],
+      "Number - Fractions": [
+        "Recognise, find, name and write fractions 1/3, 1/4, 2/4 and 3/4 of a length, shape, set of objects or quantity",
+        "Write simple fractions for example, 2/1 of 6 = 3 and recognise the equivalence of 2/1 and 4/2"
+      ],
+      "Measurement": [
+        "Choose and use appropriate standard units to estimate and measure length/height in any direction (m/cm); mass (kg/g); temperature (°C); capacity (litres/ml) to the nearest appropriate unit, using rulers, scales, thermometers and measuring vessels",
+        "Compare and order lengths, mass, volume/capacity and record the results using >, < and =",
+        "Recognise and use symbols for pounds (£) and pence (p); combine amounts to make a particular value",
+        "Find different combinations of coins that equal the same amounts of money",
+        "Solve simple problems in a practical context involving addition and subtraction of money of the same unit, including giving change",
+        "Compare and sequence intervals of time",
+        "Tell and write the time to five minutes, including quarter past/to the hour and draw the hands on a clock face to show these times",
+        "Know the number of minutes in an hour and the number of hours in a day"
+      ],
+      "Geometry - Properties of Shapes": [
+        "Identify and describe the properties of 2-D shapes, including the number of sides and line symmetry in a vertical line",
+        "Identify and describe the properties of 3-D shapes, including the number of edges, vertices and faces",
+        "Identify 2-D shapes on the surface of 3-D shapes [for example, a circle on a cylinder and a triangle on a pyramid]",
+        "Compare and sort common 2-D and 3-D shapes and everyday objects"
+      ],
+      "Geometry - Position and Direction": [
+        "Order and arrange combinations of mathematical objects in patterns and sequences",
+        "Use mathematical vocabulary to describe position, direction and movement, including movement in a straight line and distinguishing between rotation as a turn and in terms of right angles for quarter, half and three-quarter turns (clockwise and anticlockwise)"
+      ],
+      "Statistics": [
+        "Interpret and construct simple pictograms, tally charts, block diagrams and simple tables",
+        "Ask and answer simple questions by counting the number of objects in each category and sorting the categories by quantity",
+        "Ask and answer questions about totalling and comparing categorical data"
+      ]
+    },
+    "Science": {
+      "Living Things and Their Habitats": [
+        "Explore and compare the differences between things that are living, dead, and things that have never been alive",
+        "Identify that most living things live in habitats to which they are suited and describe how different habitats provide for the basic needs of different kinds of animals and plants, and how they depend on each other",
+        "Identify and name a variety of plants and animals in their habitats, including micro-habitats",
+        "Describe how animals obtain their food from plants and other animals, using the idea of a simple food chain, and identify and name different sources of food"
+      ],
+      "Plants": [
+        "Observe and describe how seeds and bulbs grow into mature plants",
+        "Find out and describe how plants need water, light and a suitable temperature to grow and stay healthy"
+      ],
+      "Animals, Including Humans": [
+        "Notice that animals, including humans, have offspring which grow into adults",
+        "Find out about and describe the basic needs of animals, including humans, for survival (water, food and air)",
+        "Describe the importance for humans of exercise, eating the right amounts of different types of food, and hygiene"
+      ],
+      "Uses of Everyday Materials": [
+        "Identify and compare the suitability of a variety of everyday materials, including wood, metal, plastic, glass, brick, rock, paper and cardboard for particular uses",
+        "Find out how the shapes of solid objects made from some materials can be changed by squashing, bending, twisting and stretching"
+      ]
+    },
+    "History": {
+      "Events beyond living memory": [
+        "The Great Fire of London",
+        "The first aeroplane flight",
+        "Events commemorated through festivals or anniversaries"
+      ],
+      "Lives of significant individuals": [
+        "Elizabeth I and Queen Victoria",
+        "Christopher Columbus and Neil Armstrong",
+        "William Caxton and Tim Berners-Lee",
+        "Pieter Bruegel the Elder and LS Lowry",
+        "Rosa Parks and Emily Davison",
+        "Mary Seacole and/or Florence Nightingale and Edith Cavell"
+      ]
+    },
+    "Geography": {
+      "Locational knowledge": [
+        "Name and locate the world's seven continents and five oceans",
+        "Name, locate and identify characteristics of the four countries and capital cities of the United Kingdom and its surrounding seas"
+      ],
+      "Place knowledge": [
+        "Understand geographical similarities and differences through studying the human and physical geography of a small area of the United Kingdom, and of a small area in a contrasting non-European country"
+      ],
+      "Human and physical geography": [
+        "Identify seasonal and daily weather patterns in the United Kingdom and the location of hot and cold areas of the world in relation to the Equator and the North and South Poles",
+        "Use basic geographical vocabulary to refer to key physical features, including: beach, cliff, coast, forest, hill, mountain, sea, ocean, river, soil, valley, vegetation, season and weather",
+        "Use basic geographical vocabulary to refer to key human features, including: city, town, village, factory, farm, house, office, port, harbour and shop"
+      ],
+      "Geographical skills and fieldwork": [
+        "Use world maps, atlases and globes to identify the United Kingdom and its countries, as well as the countries, continents and oceans studied at this key stage",
+        "Use simple compass directions (North, South, East and West) and locational and directional language [for example, near and far; left and right], to describe the location of features and routes on a map",
+        "Use aerial photographs and plan perspectives to recognise landmarks and basic human and physical features; devise a simple map; and use and construct basic symbols in a key",
+        "Use simple fieldwork and observational skills to study the geography of their school and its grounds and the key human and physical features of its surrounding environment"
+      ]
+    },
+    "Computing": {
+      "Understanding Technology": [
+        "Understand what algorithms are, how they are implemented as programs on digital devices, and that programs execute by following precise and unambiguous instructions",
+        "Create and debug simple programs",
+        "Use logical reasoning to predict the behaviour of simple programs",
+        "Use technology purposefully to create, organise, store, manipulate and retrieve digital content"
+      ],
+      "Online Safety": [
+        "Recognise common uses of information technology beyond school",
+        "Use technology safely and respectfully, keeping personal information private; identify where to go for help and support when they have concerns about content or contact on the internet or other online technologies"
+      ]
+    },
+    "Art and Design": {
+      "Using Materials Creatively": [
+        "Use a range of materials creatively to design and make products",
+        "Use drawing, painting, and sculpture to develop and share ideas, experiences, and imagination"
+      ],
+      "Developing Techniques": [
+        "Develop a wide range of art and design techniques in using colour, pattern, texture, line, shape, form, and space"
+      ],
+      "Understanding Art": [
+        "Learn about the work of a range of artists, craft makers, and designers",
+        "Describe the differences and similarities between different practices and disciplines in art and design"
+      ]
+    },
+    "Music": {
+      "Using Voices": [
+        "Use their voices expressively and creatively by singing songs and speaking chants and rhymes"
+      ],
+      "Instrumental Skills": ["Play tuned and untuned instruments musically"],
+      "Listening Skills": [
+        "Listen with concentration and understanding to a range of high-quality live and recorded music"
+      ],
+      "Sound Exploration": [
+        "Experiment with, create, select, and combine sounds using the inter-related dimensions of music"
+      ]
+    },
+    "PE": {
+      "Basic Movement Skills": [
+        "Master basic movements including running, jumping, throwing and catching, as well as developing balance, agility and co-ordination, and begin to apply these in a range of activities"
+      ],
+      "Team Games": [
+        "Participate in team games, developing simple tactics for attacking and defending"
+      ],
+      "Dance": ["Perform dances using simple movement patterns"]
+    }
+  },
+  "Year 3": {
+    "English": {
+      "Reading - Word Reading": [
+        "Apply knowledge of root words, prefixes, and suffixes to read aloud and understand new words",
+        "Read further exception words, noting the unusual correspondences between spelling and sound"
+      ],
+      "Reading - Comprehension": [
+        "Develop positive attitudes to reading and understanding by listening to and discussing a wide range of texts",
+        "Read books structured in different ways for various purposes",
+        "Use dictionaries to check word meanings",
+        "Increase familiarity with a wide range of books",
+        "Identify themes and conventions in a variety of books",
+        "Prepare poems and play scripts for reading aloud and performance",
+        "Discuss words and phrases that capture interest and imagination",
+        "Recognize different forms of poetry",
+        "Understand text by checking meaning, discussing understanding, explaining words in context, asking questions, making inferences, predicting, identifying main ideas, summarizing, and analyzing language, structure, and presentation",
+        "Retrieve and record information from non-fiction",
+        "Participate in discussions about books",
+        "Continue to listen to a variety of texts",
+        "Rehearse poems and plays for performance",
+        "Use non-fiction effectively",
+        "Participate in discussions about books",
+        "Continue to listen to a variety of texts"
+      ],
+      "Spelling": [
+        "Use prefixes and suffixes",
+        "Spell homophones",
+        "Spell commonly misspelled words",
+        "Place possessive apostrophe accurately",
+        "Use the first two or three letters of a word to check its spelling in a dictionary",
+        "Write simple sentences from memory"
+      ],
+      "Handwriting": [
+        "Use diagonal and horizontal strokes to join letters",
+        "Increase legibility, consistency, and quality of handwriting"
+      ],
+
+      "Writing - Composition": [
+        "Plan writing by discussing and recording ideas",
+        "Draft and write by composing sentences orally, organizing paragraphs, creating settings, characters, and plot, and using simple organizational devices",
+        "Evaluate and edit by assessing own and others' writing, suggesting improvements, proposing changes to grammar and vocabulary, proofreading, and reading aloud writing"
+      ],
+      "Writing - Vocabulary, Grammar, and Punctuation": [
+        "Develop understanding of concepts in English Appendix 2",
+        "Extend range of sentences with more than one clause",
+        "Use present perfect form of verbs",
+        "Choose nouns or pronouns appropriately",
+        "Use conjunctions, adverbs, and prepositions to express time and cause",
+        "Use fronted adverbials",
+        "Learn grammar for years 3 and 4 in English Appendix 2",
+        "Indicate grammatical features by using commas after fronted adverbials, possessive apostrophes with plural nouns, and punctuation for direct speech",
+        "Use and understand grammatical terminology accurately and appropriately"
+      ]
+    },
+    "Maths": {
+      "Number - Number and Place Value": [
+        "Count in multiples of 4, 8, 50, and 100; find 10 or 100 more or less than a given number",
+        "Recognise the place value of each digit in a three-digit number",
+        "Compare and order numbers up to 1000",
+        "Identify, represent, and estimate numbers using different representations",
+        "Read and write numbers up to 1000 in numerals and words",
+        "Solve number problems and practical problems involving these ideas"
+      ],
+      "Number - Addition and Subtraction": [
+        "Add and subtract numbers mentally",
+        "Add and subtract numbers with up to three digits using formal written methods",
+        "Estimate answers and use inverse operations to check",
+        "Solve problems using number facts, place value, and addition/subtraction"
+      ],
+      "Number - Multiplication and Division": [
+        "Recall and use multiplication and division facts for the 3, 4, and 8 multiplication tables",
+        "Write and calculate mathematical statements for multiplication and division using known tables",
+        "Solve problems involving multiplication and division"
+      ],
+      "Number - Fractions": [
+        "Count up and down in tenths",
+        "Recognise, find, and write fractions of a discrete set of objects",
+        "Recognise and use fractions as numbers",
+        "Recognise and show equivalent fractions",
+        "Add and subtract fractions with the same denominator",
+        "Compare and order unit fractions and fractions with the same denominators",
+        "Solve problems involving fractions"
+      ],
+      "Measurement": [
+        "Measure, compare, add, and subtract lengths, mass, volume/capacity",
+        "Measure the perimeter of simple 2-D shapes",
+        "Add and subtract amounts of money, give change",
+        "Tell and write the time, including using analogue and digital clocks",
+        "Estimate and read time, record and compare time in seconds, minutes, and hours",
+        "Know the number of seconds in a minute and days in each month, year, and leap year",
+        "Compare durations of events"
+      ],
+      "Geometry - Properties of Shapes": [
+        "Draw 2-D shapes and make 3-D shapes, recognise 3-D shapes in different orientations",
+        "Recognise angles, identify right angles, compare angles to a right angle",
+        "Identify horizontal and vertical lines, perpendicular and parallel lines"
+      ],
+      "Statistics": [
+        "Interpret and present data using bar charts, pictograms, and tables",
+        "Solve one-step and two-step questions using information presented in scaled bar charts, pictograms, and tables"
+      ]
+    },
+    "Science": {
+      "Plants": [
+        "Identify and describe functions of different parts of flowering plants",
+        "Explore requirements of plants for life and growth",
+        "Investigate water transportation within plants",
+        "Explore role of flowers in life cycle of flowering plants"
+      ],
+      "Animals, including Humans": [
+        "Identify nutrition needs of animals, including humans",
+        "Identify skeletons and muscles for support, protection, and movement"
+      ],
+      "Rocks": [
+        "Compare and group different kinds of rocks based on appearance and physical properties",
+        "Describe how fossils are formed",
+        "Recognise that soils are made from rocks and organic matter"
+      ],
+      "Light": [
+        "Recognise need for light to see things",
+        "Understand light reflection",
+        "Recognise dangers of sunlight and ways to protect eyes",
+        "Understand formation of shadows and patterns in changes to shadow size"
+      ],
+      "Forces and Magnets": [
+        "Compare how things move on different surfaces",
+        "Understand magnetic forces can act at a distance",
+        "Observe magnet attraction and repulsion",
+        "Group materials based on magnetic attraction",
+        "Describe magnets as having two poles",
+        "Predict magnet interactions based on pole orientation"
+      ]
+    },
+    "History": {
+      "Changes in Britain from the Stone Age to the Iron Age": [
+        "Late Neolithic hunter-gatherers and early farmers, e.g., Skara Brae",
+        "Bronze Age religion, technology, and travel, e.g., Stonehenge",
+        "Iron Age hill forts: tribal kingdoms, farming, art, and culture"
+      ],
+      "The Roman Empire and its impact on Britain": [
+        "Julius Caesar's attempted invasion in 55-54 BC",
+        "The Roman Empire by AD 42 and the power of its army",
+        "Successful invasion by Claudius and conquest, including Hadrian's Wall",
+        "British resistance, e.g., Boudica",
+        "'Romanisation' of Britain: sites such as Caerwent and the impact of technology, culture, and beliefs, including early Christianity"
+      ],
+      "Britain's settlement by Anglo-Saxons and Scots": [
+        "Roman withdrawal from Britain in c. AD 410 and the fall of the western Roman Empire",
+        "Scots invasions from Ireland to north Britain (now Scotland)",
+        "Anglo-Saxon invasions, settlements, and kingdoms: place names and village life",
+        "Anglo-Saxon art and culture",
+        "Christian conversion - Canterbury, Iona, and Lindisfarne"
+      ],
+      "The Viking and Anglo-Saxon struggle for the Kingdom of England to the time of Edward the Confessor": [
+        "Viking raids and invasion",
+        "Resistance by Alfred the Great and Athelstan, first king of England",
+        "Further Viking invasions and Danegeld",
+        "Anglo-Saxon laws and justice",
+        "Edward the Confessor and his death in 1066"
+      ],
+      "Local history study": [
+        "A study over time tracing how several aspects of national history are reflected in the locality (this can go beyond 1066)",
+        "A study of an aspect of history or a site dating from a period beyond 1066 that is significant in the locality.",
+        "A study of an aspect or theme in British history that extends pupils' chronological knowledge beyond 1066"
+      ],
+      "Non-European societies providing contrasts with British history": [
+        "Early Islamic civilization, including a study of Baghdad c. AD 900",
+        "Mayan civilization c. AD 900",
+        "Benin (West Africa) c. AD 900-1300"
+      ]
+    },
+    "Geography": {
+      "Locational knowledge": [
+        "Locate the world's countries, focusing on Europe, North and South America, and including the location of Russia",
+        "Name and locate counties and cities of the United Kingdom, geographical regions, and key topographical features, and understand how some aspects have changed over time",
+        "Identify the position and significance of latitude, longitude, Equator, Northern Hemisphere, Southern Hemisphere, the Tropics of Cancer and Capricorn, Arctic and Antarctic Circle, the Prime/Greenwich Meridian, and time zones"
+      ],
+      "Place knowledge": [
+        "Understand geographical similarities and differences through the study of human and physical geography of a region of the United Kingdom, a region in a European country, and a region within North or South America"
+      ],
+      "Human and physical geography": [
+        "Describe and understand key aspects of physical geography, including climate zones, biomes and vegetation belts, rivers, mountains, volcanoes and earthquakes, and the water cycle",
+        "Describe and understand key aspects of human geography, including types of settlement and land use, economic activity, including trade links, and the distribution of natural resources including energy, food, minerals, and water"
+      ],
+      "Geographical skills and fieldwork": [
+        "Use maps, atlases, globes, and digital/computer mapping to locate countries and describe features studied",
+        "Use compass directions, four and six-figure grid references, symbols, and keys to build knowledge of the United Kingdom and the wider world",
+        "Use fieldwork to observe, measure, record, and present the human and physical features in the local area using a range of methods, including sketch maps, plans, graphs, and digital technologies"
+      ]
+    },
+    "Computing": {
+      "Programming": [
+        "Design, write, and debug programs to accomplish specific goals, including controlling or simulating physical systems, and solve problems by decomposing them into smaller parts",
+        "Use sequence, selection, and repetition in programs; work with variables and various forms of input and output",
+        "Use logical reasoning to explain how simple algorithms work and to detect and correct errors in algorithms and programs"
+      ],
+      "Computer networks and internet": [
+        "Understand computer networks, including the internet, and how they provide multiple services such as the World Wide Web, and recognize the opportunities they offer for communication and collaboration",
+        "Use search technologies effectively, appreciate how results are selected and ranked, and be discerning in evaluating digital content"
+      ],
+      "Software and digital devices": [
+        "Select, use, and combine a variety of software (including internet services) on a range of digital devices to design and create programs, systems, and content that accomplish given goals",
+        "Use technology safely, respectfully, and responsibly; recognize acceptable/unacceptable behavior; identify a range of ways to report concerns about content and contact"
+      ]
+    },
+    "Art and Design": {
+      "Technique Development": [
+        "Develop techniques, including control and use of materials, with creativity, experimentation, and an increasing awareness of different kinds of art, craft, and design"
+      ],
+      "Sketchbook Creation": [
+        "Create sketchbooks to record observations and use them to review and revisit ideas"
+      ],
+      "Mastery of Techniques": [
+        "Improve mastery of art and design techniques, including drawing, painting, and sculpture with a range of materials such as pencil, charcoal, paint, and clay"
+      ],
+      "Study of Great Artists": [
+        "Learn about great artists, architects, and designers in history"
+      ]
+    },
+    "Music": {
+      "Performance Skills": [
+        "Play and perform in solo and ensemble contexts, using voices and playing musical instruments with increasing accuracy, fluency, control, and expression"
+      ],
+      "Improvisation and Composition": [
+        "Improvise and compose music for a range of purposes using the inter-related dimensions of music"
+      ],
+      "Aural Skills": [
+        "Listen with attention to detail and recall sounds with increasing aural memory"
+      ],
+      "Notation": ["Use and understand staff and other musical notations"],
+      "Appreciation of Music": [
+        "Appreciate and understand a wide range of high-quality live and recorded music drawn from different traditions, and from great composers and musicians"
+      ],
+      "Historical Understanding": [
+        "Develop an understanding of the history of music"
+      ]
+    },
+    "PE": {
+      "Fundamental Skills": [
+        "Use running, jumping, throwing and catching in isolation and in combination"
+      ],
+      "Competitive Games": [
+        "Play competitive games, modified where appropriate (e.g., badminton, basketball, cricket, football, hockey, netball, rounders, and tennis), and apply basic principles suitable for attacking and defending"
+      ],
+      "Physical Development": [
+        "Develop flexibility, strength, technique, control and balance (e.g., through athletics and gymnastics)"
+      ],
+      "Creative Expression": [
+        "Perform dances using a range of movement patterns"
+      ],
+      "Outdoor and Adventurous Activities": [
+        "Take part in outdoor and adventurous activity challenges both individually and within a team"
+      ],
+      "Self-assessment and Improvement": [
+        "Compare their performances with previous ones and demonstrate improvement to achieve their personal best"
+      ]
+    },
+    "French": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "German": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "Spanish": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    }
+  },
+  "Year 4": {
+    "English": {
+      "Reading - Word Reading": [
+        "Apply knowledge of root words, prefixes, and suffixes to read aloud and understand new words",
+        "Read further exception words, noting the unusual correspondences between spelling and sound"
+      ],
+      "Reading - Comprehension": [
+        "Develop positive attitudes to reading and understanding by listening to and discussing a wide range of texts",
+        "Read books structured in different ways for various purposes",
+        "Use dictionaries to check word meanings",
+        "Increase familiarity with a wide range of books",
+        "Identify themes and conventions in a variety of books",
+        "Prepare poems and play scripts for reading aloud and performance",
+        "Discuss words and phrases that capture interest and imagination",
+        "Recognize different forms of poetry",
+        "Understand text by checking meaning, discussing understanding, explaining words in context, asking questions, making inferences, predicting, identifying main ideas, summarizing, and analyzing language, structure, and presentation",
+        "Retrieve and record information from non-fiction",
+        "Participate in discussions about books",
+        "Continue to listen to a variety of texts",
+        "Rehearse poems and plays for performance",
+        "Use non-fiction effectively",
+        "Participate in discussions about books",
+        "Continue to listen to a variety of texts"
+      ],
+      "Spelling": [
+        "Use prefixes and suffixes",
+        "Spell homophones",
+        "Spell commonly misspelled words",
+        "Place possessive apostrophe accurately",
+        "Use the first two or three letters of a word to check its spelling in a dictionary",
+        "Write simple sentences from memory"
+      ],
+      "Handwriting": [
+        "Use diagonal and horizontal strokes to join letters",
+        "Increase legibility, consistency, and quality of handwriting"
+      ],
+      "Writing - Composition": [
+        "Plan writing by discussing and recording ideas",
+        "Draft and write by composing sentences orally, organizing paragraphs, creating settings, characters, and plot, and using simple organizational devices",
+        "Evaluate and edit by assessing own and others' writing, suggesting improvements, proposing changes to grammar and vocabulary, proofreading, and reading aloud writing"
+      ],
+      "Writing - Vocabulary, Grammar, and Punctuation": [
+        "Develop understanding of concepts in English Appendix 2",
+        "Extend range of sentences with more than one clause",
+        "Use present perfect form of verbs",
+        "Choose nouns or pronouns appropriately",
+        "Use conjunctions, adverbs, and prepositions to express time and cause",
+        "Use fronted adverbials",
+        "Learn grammar for years 3 and 4 in English Appendix 2",
+        "Indicate grammatical features by using commas after fronted adverbials, possessive apostrophes with plural nouns, and punctuation for direct speech",
+        "Use and understand grammatical terminology accurately and appropriately"
+      ]
+    },
+    "Maths": {
+      "Number and Place Value": [
+        "Count in multiples of 6, 7, 9, 25 and 1000",
+        "Find 1000 more or less than a given number",
+        "Count backwards through zero to include negative numbers",
+        "Recognise the place value of each digit in a four-digit number (thousands, hundreds, tens, and ones)",
+        "Order and compare numbers beyond 1000",
+        "Identify, represent and estimate numbers using different representations",
+        "Round any number to the nearest 10, 100 or 1000",
+        "Read Roman numerals to 100 (I to C)"
+      ],
+      "Number - Addition and Subtraction": [
+        "Add and subtract numbers with up to 4 digits using the formal written methods of columnar addition and subtraction where appropriate",
+        "Estimate and use inverse operations to check answers to a calculation",
+        "Solve addition and subtraction two-step problems in contexts, deciding which operations and methods to use and why"
+      ],
+      "Number - Multiplication and Division": [
+        "Recall multiplication and division facts for multiplication tables up to 12 x 12",
+        "Use place value, known and derived facts to multiply and divide mentally, including multiplying by 0 and 1; dividing by 1; multiplying together three numbers",
+        "Recognise and use factor pairs and commutativity in mental calculations",
+        "Multiply two-digit and three-digit numbers by a one-digit number using formal written layout",
+        "Solve problems involving multiplying and adding, including using the distributive law to multiply two digit numbers by one digit, integer scaling problems and harder correspondence problems such as n objects are connected to m objects"
+      ],
+      "Number - Fractions (including Decimals)": [
+        "Recognise and show, using diagrams, families of common equivalent fractions",
+        "Count up and down in hundredths",
+        "Solve problems involving increasingly harder fractions to calculate quantities, and fractions to divide quantities, including non-unit fractions where the answer is a whole number",
+        "Add and subtract fractions with the same denominator",
+        "Recognise and write decimal equivalents of any number of tenths or hundredths",
+        "Recognise and write decimal equivalents to 4 1 , 2 1 , 4 3"
+      ],
+      "Measurement": [
+        "Convert between different units of measure (for example, kilometre to metre; hour to minute)",
+        "Measure and calculate the perimeter of a rectilinear figure (including squares) in centimetres and metres",
+        "Find the area of rectilinear shapes by counting squares",
+        "Read, write and convert time between analogue and digital 12- and 24-hour clocks",
+        "Solve problems involving converting from hours to minutes; minutes to seconds; years to months; weeks to days"
+      ],
+      "Geometry - Properties of Shapes": [
+        "Compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes",
+        "Identify acute and obtuse angles and compare and order angles up to two right angles by size",
+        "Identify lines of symmetry in 2-D shapes presented in different orientations",
+        "Complete a simple symmetric figure with respect to a specific line of symmetry"
+      ],
+      "Geometry - Position and Direction": [
+        "Describe positions on a 2-D grid as coordinates in the first quadrant",
+        "Describe movements between positions as translations of a given unit to the left/right and up/down",
+        "Plot specified points and draw sides to complete a given polygon"
+      ],
+      "Statistics": [
+        "Interpret and present discrete and continuous data using appropriate graphical methods, including bar charts and time graphs",
+        "Solve comparison, sum and difference problems using information presented in bar charts, pictograms, tables and other graphs"
+      ]
+    },
+    "Science": {
+      "Living Things and Their Habitats": [
+        "Recognise that living things can be grouped in a variety of ways",
+        "Explore and use classification keys to help group, identify and name a variety of living things in their local and wider environment",
+        "Recognise that environments can change and that this can sometimes pose dangers to living things",
+        "Identify how the habitat changes throughout the year",
+        "Explore examples of human impact (both positive and negative) on environments",
+        "Understand the positive effects of nature reserves, ecologically planned parks, or garden ponds",
+        "Recognise the negative effects of population and development, litter or deforestation"
+      ],
+      "Animals, Including Humans": [
+        "Describe the simple functions of the basic parts of the digestive system in humans",
+        "Identify the different types of teeth in humans and their simple functions",
+        "Compare the teeth of carnivores and herbivores",
+        "Find out what damages teeth and how to look after them",
+        "Construct and interpret a variety of food chains",
+        "Identify producers, predators and prey"
+      ],
+      "States of Matter": [
+        "Compare and group materials together, according to whether they are solids, liquids or gases",
+        "Observe that some materials change state when they are heated or cooled",
+        "Measure or research the temperature at which this happens in degrees Celsius (°C)",
+        "Identify the part played by evaporation and condensation in the water cycle",
+        "Associate the rate of evaporation with temperature"
+      ],
+      "Sound": [
+        "Identify how sounds are made, associating some of them with something vibrating",
+        "Recognise that vibrations from sounds travel through a medium to the ear",
+        "Find patterns between the pitch of a sound and features of the object that produced it",
+        "Find patterns between the volume of a sound and the strength of the vibrations that produced it",
+        "Recognise that sounds get fainter as the distance from the sound source increases"
+      ],
+      "Electricity": [
+        "Identify common appliances that run on electricity",
+        "Construct a simple series electrical circuit, identifying and naming its basic parts, including cells, wires, bulbs, switches and buzzers",
+        "Identify whether or not a lamp will light in a simple series circuit, based on whether or not the lamp is part of a complete loop with a battery",
+        "Recognise that a switch opens and closes a circuit and associate this with whether or not a lamp lights in a simple series circuit",
+        "Recognise some common conductors and insulators, and associate metals with being good conductors",
+        "Understand precautions for working safely with electricity"
+      ]
+    },
+    "History": {
+      "Changes in Britain from the Stone Age to the Iron Age": [
+        "Late Neolithic hunter-gatherers and early farmers, e.g., Skara Brae",
+        "Bronze Age religion, technology, and travel, e.g., Stonehenge",
+        "Iron Age hill forts: tribal kingdoms, farming, art, and culture"
+      ],
+      "The Roman Empire and its impact on Britain": [
+        "Julius Caesar's attempted invasion in 55-54 BC",
+        "The Roman Empire by AD 42 and the power of its army",
+        "Successful invasion by Claudius and conquest, including Hadrian's Wall",
+        "British resistance, e.g., Boudica",
+        "'Romanisation' of Britain: sites such as Caerwent and the impact of technology, culture, and beliefs, including early Christianity"
+      ],
+      "Britain's settlement by Anglo-Saxons and Scots": [
+        "Roman withdrawal from Britain in c. AD 410 and the fall of the western Roman Empire",
+        "Scots invasions from Ireland to north Britain (now Scotland)",
+        "Anglo-Saxon invasions, settlements, and kingdoms: place names and village life",
+        "Anglo-Saxon art and culture",
+        "Christian conversion - Canterbury, Iona, and Lindisfarne"
+      ],
+      "The Viking and Anglo-Saxon struggle for the Kingdom of England to the time of Edward the Confessor": [
+        "Viking raids and invasion",
+        "Resistance by Alfred the Great and Athelstan, first king of England",
+        "Further Viking invasions and Danegeld",
+        "Anglo-Saxon laws and justice",
+        "Edward the Confessor and his death in 1066"
+      ],
+      "Local history study": [
+        "A study over time tracing how several aspects of national history are reflected in the locality (this can go beyond 1066)",
+        "A study of an aspect of history or a site dating from a period beyond 1066 that is significant in the locality.",
+        "A study of an aspect or theme in British history that extends pupils' chronological knowledge beyond 1066"
+      ],
+      "Non-European societies providing contrasts with British history": [
+        "Early Islamic civilization, including a study of Baghdad c. AD 900",
+        "Mayan civilization c. AD 900",
+        "Benin (West Africa) c. AD 900-1300"
+      ]
+    },
+    "Geography": {
+      "Locational knowledge": [
+        "Locate the world's countries, focusing on Europe, North and South America, and including the location of Russia",
+        "Name and locate counties and cities of the United Kingdom, geographical regions, and key topographical features, and understand how some aspects have changed over time",
+        "Identify the position and significance of latitude, longitude, Equator, Northern Hemisphere, Southern Hemisphere, the Tropics of Cancer and Capricorn, Arctic and Antarctic Circle, the Prime/Greenwich Meridian, and time zones"
+      ],
+      "Place knowledge": [
+        "Understand geographical similarities and differences through the study of human and physical geography of a region of the United Kingdom, a region in a European country, and a region within North or South America"
+      ],
+      "Human and physical geography": [
+        "Describe and understand key aspects of physical geography, including climate zones, biomes and vegetation belts, rivers, mountains, volcanoes and earthquakes, and the water cycle",
+        "Describe and understand key aspects of human geography, including types of settlement and land use, economic activity, including trade links, and the distribution of natural resources including energy, food, minerals, and water"
+      ],
+      "Geographical skills and fieldwork": [
+        "Use maps, atlases, globes, and digital/computer mapping to locate countries and describe features studied",
+        "Use compass directions, four and six-figure grid references, symbols, and keys to build knowledge of the United Kingdom and the wider world",
+        "Use fieldwork to observe, measure, record, and present the human and physical features in the local area using a range of methods, including sketch maps, plans, graphs, and digital technologies"
+      ]
+    },
+    "Computing": {
+      "Programming": [
+        "Design, write, and debug programs to accomplish specific goals, including controlling or simulating physical systems, and solve problems by decomposing them into smaller parts",
+        "Use sequence, selection, and repetition in programs; work with variables and various forms of input and output",
+        "Use logical reasoning to explain how simple algorithms work and to detect and correct errors in algorithms and programs"
+      ],
+      "Computer networks and internet": [
+        "Understand computer networks, including the internet, and how they provide multiple services such as the World Wide Web, and recognize the opportunities they offer for communication and collaboration",
+        "Use search technologies effectively, appreciate how results are selected and ranked, and be discerning in evaluating digital content"
+      ],
+      "Software and digital devices": [
+        "Select, use, and combine a variety of software (including internet services) on a range of digital devices to design and create programs, systems, and content that accomplish given goals",
+        "Use technology safely, respectfully, and responsibly; recognize acceptable/unacceptable behavior; identify a range of ways to report concerns about content and contact"
+      ]
+    },
+    "Art and Design": {
+      "Technique Development": [
+        "Develop techniques, including control and use of materials, with creativity, experimentation, and an increasing awareness of different kinds of art, craft, and design"
+      ],
+      "Sketchbook Creation": [
+        "Create sketchbooks to record observations and use them to review and revisit ideas"
+      ],
+      "Mastery of Techniques": [
+        "Improve mastery of art and design techniques, including drawing, painting, and sculpture with a range of materials such as pencil, charcoal, paint, and clay"
+      ],
+      "Study of Great Artists": [
+        "Learn about great artists, architects, and designers in history"
+      ]
+    },
+    "Music": {
+      "Performance Skills": [
+        "Play and perform in solo and ensemble contexts, using voices and playing musical instruments with increasing accuracy, fluency, control, and expression"
+      ],
+      "Improvisation and Composition": [
+        "Improvise and compose music for a range of purposes using the inter-related dimensions of music"
+      ],
+      "Aural Skills": [
+        "Listen with attention to detail and recall sounds with increasing aural memory"
+      ],
+      "Notation": ["Use and understand staff and other musical notations"],
+      "Appreciation of Music": [
+        "Appreciate and understand a wide range of high-quality live and recorded music drawn from different traditions, and from great composers and musicians"
+      ],
+      "Historical Understanding": [
+        "Develop an understanding of the history of music"
+      ]
+    },
+    "PE": {
+      "Fundamental Skills": [
+        "Use running, jumping, throwing and catching in isolation and in combination"
+      ],
+      "Competitive Games": [
+        "Play competitive games, modified where appropriate (e.g., badminton, basketball, cricket, football, hockey, netball, rounders, and tennis), and apply basic principles suitable for attacking and defending"
+      ],
+      "Physical Development": [
+        "Develop flexibility, strength, technique, control and balance (e.g., through athletics and gymnastics)"
+      ],
+      "Creative Expression": [
+        "Perform dances using a range of movement patterns"
+      ],
+      "Outdoor and Adventurous Activities": [
+        "Take part in outdoor and adventurous activity challenges both individually and within a team"
+      ],
+      "Self-assessment and Improvement": [
+        "Compare their performances with previous ones and demonstrate improvement to achieve their personal best"
+      ]
+    },
+    "French": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "German": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "Spanish": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    }
+  },
+  "Year 5": {
+    "English": {
+      "Reading - Word Reading": [
+        "Apply knowledge of root words, prefixes, and suffixes to read aloud and understand the meaning of new words",
+        "Encourage working out unfamiliar words by focusing on all letters in a word"
+      ],
+      "Reading - Comprehension": [
+        "Read and discuss a wide range of fiction, poetry, plays, non-fiction, and reference books",
+        "Increase familiarity with a wide range of books from various genres and cultures",
+        "Recommend books to peers and give reasons for choices",
+        "Identify and discuss themes and conventions in a wide range of writing",
+        "Make comparisons within and across books",
+        "Learn a wider range of poetry by heart",
+        "Prepare and perform poems and plays with clear understanding of the meaning",
+        "Check that the book makes sense, discuss understanding, and explore word meanings in context",
+        "Ask questions to improve understanding",
+        "Draw inferences from text and justify with evidence",
+        "Predict outcomes based on details stated and implied",
+        "Summarise main ideas and identify key details supporting them",
+        "Understand how language, structure, and presentation contribute to meaning",
+        "Discuss and evaluate authors' use of language, including figurative language",
+        "Distinguish between fact and opinion",
+        "Retrieve, record, and present information from non-fiction texts",
+        "Participate in discussions about books, challenging views courteously",
+        "Explain understanding of texts through formal presentations and debates"
+      ],
+      "Writing - Transcription": [
+        "Use further prefixes and suffixes, spell words with silent letters, and distinguish between homophones",
+        "Use knowledge of morphology and etymology in spelling",
+        "Use dictionaries and thesauruses to check spelling and meaning",
+        "Use the first three or four letters of a word to check spelling or meaning in a dictionary",
+        "Use handwriting legibly, fluently, and with increasing speed, choosing appropriate letter shapes and writing implements"
+      ],
+      "Writing - Composition": [
+        "Plan writing by identifying audience, purpose, and appropriate form",
+        "Note and develop initial ideas, drawing on reading and research",
+        "Draft and write, selecting appropriate grammar and vocabulary",
+        "Describe settings, characters, and atmosphere in narratives",
+        "Integrate dialogue to convey character and advance action in narratives",
+        "Precis longer passages",
+        "Use devices to build cohesion within and across paragraphs",
+        "Use organisational and presentational devices to structure text and guide the reader",
+        "Evaluate and edit writing, proposing changes to enhance effects and clarify meaning",
+        "Ensure consistent and correct use of tense, subject-verb agreement, and register",
+        "Proofread for spelling and punctuation errors",
+        "Perform compositions with appropriate intonation, volume, and movement"
+      ],
+      "Writing - Vocabulary, Grammar, and Punctuation": [
+        "Develop understanding of vocabulary and structures appropriate for formal speech and writing, including subjunctive forms",
+        "Use passive verbs to affect the presentation of information in a sentence",
+        "Use the perfect form of verbs to mark relationships of time and cause",
+        "Use expanded noun phrases to convey complicated information concisely",
+        "Use modal verbs or adverbs to indicate degrees of possibility",
+        "Use relative clauses beginning with who, which, where, when, whose, that, or with an implied relative pronoun",
+        "Learn the grammar for years 5 and 6 as specified in English Appendix 2",
+        "Indicate grammatical and other features by using commas to clarify meaning or avoid ambiguity in writing",
+        "Use hyphens to avoid ambiguity",
+        "Use brackets, dashes, or commas to indicate parenthesis",
+        "Use semi-colons, colons, or dashes to mark boundaries between independent clauses",
+        "Use a colon to introduce a list",
+        "Punctuate bullet points consistently"
+      ]
+    },
+    "Maths": {
+      "Number - Number and Place Value": [
+        "Read, write, order, and compare numbers to at least 1,000,000 and determine the value of each digit",
+        "Count forwards or backwards in steps of powers of 10 for any given number up to 1,000,000",
+        "Interpret negative numbers in context, count forwards and backwards with positive and negative whole numbers, including through zero",
+        "Round any number up to 1,000,000 to the nearest 10, 100, 1000, 10,000, and 100,000",
+        "Solve number problems and practical problems that involve all of the above",
+        "Read Roman numerals to 1000 (M) and recognise years written in Roman numerals"
+      ],
+      "Number - Addition and Subtraction": [
+        "Add and subtract whole numbers with more than 4 digits, including using formal written methods (columnar addition and subtraction)",
+        "Add and subtract numbers mentally with increasingly large numbers",
+        "Use rounding to check answers to calculations and determine levels of accuracy",
+        "Solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why"
+      ],
+      "Number - Multiplication and Division": [
+        "Identify multiples and factors, including finding all factor pairs of a number and common factors of two numbers",
+        "Know and use the vocabulary of prime numbers, prime factors, and composite (non-prime) numbers",
+        "Establish whether a number up to 100 is prime and recall prime numbers up to 19",
+        "Multiply numbers up to 4 digits by a one- or two-digit number using a formal written method, including long multiplication for two-digit numbers",
+        "Multiply and divide numbers mentally drawing upon known facts",
+        "Divide numbers up to 4 digits by a one-digit number using the formal written method of short division and interpret remainders appropriately for the context",
+        "Multiply and divide whole numbers and those involving decimals by 10, 100, and 1000",
+        "Recognise and use square numbers and cube numbers, and the notation for squared (2) and cubed (3)",
+        "Solve problems involving multiplication and division, including using their knowledge of factors and multiples, squares and cubes",
+        "Solve problems involving addition, subtraction, multiplication, and division, and a combination of these, including understanding the meaning of the equals sign",
+        "Solve problems involving multiplication and division, including scaling by simple fractions and problems involving simple rates"
+      ],
+      "Number - Fractions (including Decimals and Percentages)": [
+        "Compare and order fractions whose denominators are all multiples of the same number",
+        "Identify, name, and write equivalent fractions of a given fraction, represented visually, including tenths and hundredths",
+        "Recognise mixed numbers and improper fractions and convert from one form to the other and write mathematical statements > 1 as a mixed number",
+        "Add and subtract fractions with the same denominator and denominators that are multiples of the same number",
+        "Multiply proper fractions and mixed numbers by whole numbers, supported by materials and diagrams",
+        "Read and write decimal numbers as fractions",
+        "Recognise and use thousandths and relate them to tenths, hundredths, and decimal equivalents",
+        "Round decimals with two decimal places to the nearest whole number and to one decimal place",
+        "Read, write, order, and compare numbers with up to three decimal places",
+        "Solve problems involving numbers up to three decimal places",
+        "Recognise the per cent symbol (%) and understand that per cent relates to 'number of parts per hundred', and write percentages as a fraction with denominator 100 and as a decimal",
+        "Solve problems which require knowing percentage and decimal equivalents of common fractions and those fractions with a denominator of a multiple of 10 or 25"
+      ],
+      "Measurement": [
+        "Convert between different units of metric measure",
+        "Understand and use approximate equivalences between metric units and common imperial units such as inches, pounds, and pints",
+        "Measure and calculate the perimeter of composite rectilinear shapes in centimetres and metres",
+        "Calculate and compare the area of rectangles (including squares), including using standard units, square centimetres (cm2) and square metres (m2), and estimate the area of irregular shapes",
+        "Estimate volume and capacity",
+        "Solve problems involving converting between units of time",
+        "Use all four operations to solve problems involving measure using decimal notation, including scaling"
+      ],
+      "Geometry - Properties of Shapes": [
+        "Identify 3-D shapes, including cubes and other cuboids, from 2-D representations",
+        "Know angles are measured in degrees: estimate and compare acute, obtuse, and reflex angles",
+        "Draw given angles and measure them in degrees",
+        "Identify angles at a point and one whole turn (total 360°)",
+        "Identify angles at a point on a straight line and 2/1 a turn (total 180°)",
+        "Identify other multiples of 90°",
+        "Use the properties of rectangles to deduce related facts and find missing lengths and angles",
+        "Distinguish between regular and irregular polygons based on reasoning about equal sides and angles"
+      ],
+      "Geometry - Position and Direction": [
+        "Identify, describe, and represent the position of a shape following a reflection or translation, using the appropriate language, and know that the shape has not changed"
+      ],
+      "Statistics": [
+        "Solve comparison, sum, and difference problems using information presented in a line graph",
+        "Complete, read, and interpret information in tables, including timetables"
+      ]
+    },
+    "Science": {
+      "Living Things and Their Habitats": [
+        "Describe the differences in the life cycles of a mammal, an amphibian, an insect, and a bird",
+        "Describe the life process of reproduction in some plants and animals"
+      ],
+      "Animals, Including Humans": [
+        "Describe the changes as humans develop to old age"
+      ],
+      "Properties and Changes of Materials": [
+        "Compare and group together everyday materials based on their properties",
+        "Know that some materials will dissolve in liquid to form a solution",
+        "Use knowledge of solids, liquids, and gases to decide how mixtures might be separated",
+        "Give reasons for the particular uses of everyday materials",
+        "Demonstrate that dissolving, mixing, and changes of state are reversible changes",
+        "Explain that some changes result in the formation of new materials, and that this kind of change is not usually reversible"
+      ],
+      "Earth and Space": [
+        "Describe the movement of the Earth and other planets relative to the Sun in the solar system",
+        "Describe the movement of the Moon relative to the Earth",
+        "Describe the Sun, Earth, and Moon as approximately spherical bodies",
+        "Use the idea of the Earth's rotation to explain day and night and the apparent movement of the sun across the sky"
+      ],
+
+      "Forces": [
+        "Explain that unsupported objects fall towards the Earth because of the force of gravity acting between the Earth and the falling object",
+        "Identify the effects of air resistance, water resistance, and friction that act between moving surfaces",
+        "Recognise that some mechanisms, including levers, pulleys, and gears, allow a smaller force to have a greater effect"
+      ]
+    },
+    "History": {
+      "Changes in Britain from the Stone Age to the Iron Age": [
+        "Late Neolithic hunter-gatherers and early farmers, e.g., Skara Brae",
+        "Bronze Age religion, technology, and travel, e.g., Stonehenge",
+        "Iron Age hill forts: tribal kingdoms, farming, art, and culture"
+      ],
+      "The Roman Empire and its impact on Britain": [
+        "Julius Caesar's attempted invasion in 55-54 BC",
+        "The Roman Empire by AD 42 and the power of its army",
+        "Successful invasion by Claudius and conquest, including Hadrian's Wall",
+        "British resistance, e.g., Boudica",
+        "'Romanisation' of Britain: sites such as Caerwent and the impact of technology, culture, and beliefs, including early Christianity"
+      ],
+      "Britain's settlement by Anglo-Saxons and Scots": [
+        "Roman withdrawal from Britain in c. AD 410 and the fall of the western Roman Empire",
+        "Scots invasions from Ireland to north Britain (now Scotland)",
+        "Anglo-Saxon invasions, settlements, and kingdoms: place names and village life",
+        "Anglo-Saxon art and culture",
+        "Christian conversion - Canterbury, Iona, and Lindisfarne"
+      ],
+      "The Viking and Anglo-Saxon struggle for the Kingdom of England to the time of Edward the Confessor": [
+        "Viking raids and invasion",
+        "Resistance by Alfred the Great and Athelstan, first king of England",
+        "Further Viking invasions and Danegeld",
+        "Anglo-Saxon laws and justice",
+        "Edward the Confessor and his death in 1066"
+      ],
+      "Local history study": [
+        "A study over time tracing how several aspects of national history are reflected in the locality (this can go beyond 1066)",
+        "A study of an aspect of history or a site dating from a period beyond 1066 that is significant in the locality.",
+        "A study of an aspect or theme in British history that extends pupils' chronological knowledge beyond 1066"
+      ],
+      "Non-European societies providing contrasts with British history": [
+        "Early Islamic civilization, including a study of Baghdad c. AD 900",
+        "Mayan civilization c. AD 900",
+        "Benin (West Africa) c. AD 900-1300"
+      ]
+    },
+    "Geography": {
+      "Locational knowledge": [
+        "Locate the world's countries, focusing on Europe, North and South America, and including the location of Russia",
+        "Name and locate counties and cities of the United Kingdom, geographical regions, and key topographical features, and understand how some aspects have changed over time",
+        "Identify the position and significance of latitude, longitude, Equator, Northern Hemisphere, Southern Hemisphere, the Tropics of Cancer and Capricorn, Arctic and Antarctic Circle, the Prime/Greenwich Meridian, and time zones"
+      ],
+      "Place knowledge": [
+        "Understand geographical similarities and differences through the study of human and physical geography of a region of the United Kingdom, a region in a European country, and a region within North or South America"
+      ],
+      "Human and physical geography": [
+        "Describe and understand key aspects of physical geography, including climate zones, biomes and vegetation belts, rivers, mountains, volcanoes and earthquakes, and the water cycle",
+        "Describe and understand key aspects of human geography, including types of settlement and land use, economic activity, including trade links, and the distribution of natural resources including energy, food, minerals, and water"
+      ],
+      "Geographical skills and fieldwork": [
+        "Use maps, atlases, globes, and digital/computer mapping to locate countries and describe features studied",
+        "Use compass directions, four and six-figure grid references, symbols, and keys to build knowledge of the United Kingdom and the wider world",
+        "Use fieldwork to observe, measure, record, and present the human and physical features in the local area using a range of methods, including sketch maps, plans, graphs, and digital technologies"
+      ]
+    },
+    "Computing": {
+      "Programming": [
+        "Design, write, and debug programs to accomplish specific goals, including controlling or simulating physical systems, and solve problems by decomposing them into smaller parts",
+        "Use sequence, selection, and repetition in programs; work with variables and various forms of input and output",
+        "Use logical reasoning to explain how simple algorithms work and to detect and correct errors in algorithms and programs"
+      ],
+      "Computer networks and internet": [
+        "Understand computer networks, including the internet, and how they provide multiple services such as the World Wide Web, and recognize the opportunities they offer for communication and collaboration",
+        "Use search technologies effectively, appreciate how results are selected and ranked, and be discerning in evaluating digital content"
+      ],
+      "Software and digital devices": [
+        "Select, use, and combine a variety of software (including internet services) on a range of digital devices to design and create programs, systems, and content that accomplish given goals",
+        "Use technology safely, respectfully, and responsibly; recognize acceptable/unacceptable behavior; identify a range of ways to report concerns about content and contact"
+      ]
+    },
+    "Art and Design": {
+      "Technique Development": [
+        "Develop techniques, including control and use of materials, with creativity, experimentation, and an increasing awareness of different kinds of art, craft, and design"
+      ],
+      "Sketchbook Creation": [
+        "Create sketchbooks to record observations and use them to review and revisit ideas"
+      ],
+      "Mastery of Techniques": [
+        "Improve mastery of art and design techniques, including drawing, painting, and sculpture with a range of materials such as pencil, charcoal, paint, and clay"
+      ],
+      "Study of Great Artists": [
+        "Learn about great artists, architects, and designers in history"
+      ]
+    },
+    "Music": {
+      "Performance Skills": [
+        "Play and perform in solo and ensemble contexts, using voices and playing musical instruments with increasing accuracy, fluency, control, and expression"
+      ],
+      "Improvisation and Composition": [
+        "Improvise and compose music for a range of purposes using the inter-related dimensions of music"
+      ],
+      "Aural Skills": [
+        "Listen with attention to detail and recall sounds with increasing aural memory"
+      ],
+      "Notation": ["Use and understand staff and other musical notations"],
+      "Appreciation of Music": [
+        "Appreciate and understand a wide range of high-quality live and recorded music drawn from different traditions, and from great composers and musicians"
+      ],
+      "Historical Understanding": [
+        "Develop an understanding of the history of music"
+      ]
+    },
+    "PE": {
+      "Fundamental Skills": [
+        "Use running, jumping, throwing and catching in isolation and in combination"
+      ],
+      "Competitive Games": [
+        "Play competitive games, modified where appropriate (e.g., badminton, basketball, cricket, football, hockey, netball, rounders, and tennis), and apply basic principles suitable for attacking and defending"
+      ],
+      "Physical Development": [
+        "Develop flexibility, strength, technique, control and balance (e.g., through athletics and gymnastics)"
+      ],
+      "Creative Expression": [
+        "Perform dances using a range of movement patterns"
+      ],
+      "Outdoor and Adventurous Activities": [
+        "Take part in outdoor and adventurous activity challenges both individually and within a team"
+      ],
+      "Self-assessment and Improvement": [
+        "Compare their performances with previous ones and demonstrate improvement to achieve their personal best"
+      ]
+    },
+    "French": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "German": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "Spanish": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    }
+  },
+  "Year 6": {
+    "English": {
+      "Reading - Word Reading": [
+        "Apply knowledge of root words, prefixes, and suffixes to read aloud and understand the meaning of new words",
+        "Encourage working out unfamiliar words by focusing on all letters in a word"
+      ],
+      "Reading - Comprehension": [
+        "Read and discuss a wide range of fiction, poetry, plays, non-fiction, and reference books",
+        "Increase familiarity with a wide range of books from various genres and cultures",
+        "Recommend books to peers and give reasons for choices",
+        "Identify and discuss themes and conventions in a wide range of writing",
+        "Make comparisons within and across books",
+        "Learn a wider range of poetry by heart",
+        "Prepare and perform poems and plays with clear understanding of the meaning",
+        "Check that the book makes sense, discuss understanding, and explore word meanings in context",
+        "Ask questions to improve understanding",
+        "Draw inferences from text and justify with evidence",
+        "Predict outcomes based on details stated and implied",
+        "Summarise main ideas and identify key details supporting them",
+        "Understand how language, structure, and presentation contribute to meaning",
+        "Discuss and evaluate authors' use of language, including figurative language",
+        "Distinguish between fact and opinion",
+        "Retrieve, record, and present information from non-fiction texts",
+        "Participate in discussions about books, challenging views courteously",
+        "Explain understanding of texts through formal presentations and debates"
+      ],
+      "Writing - Transcription": [
+        "Use further prefixes and suffixes, spell words with silent letters, and distinguish between homophones",
+        "Use knowledge of morphology and etymology in spelling",
+        "Use dictionaries and thesauruses to check spelling and meaning",
+        "Use the first three or four letters of a word to check spelling or meaning in a dictionary",
+        "Use handwriting legibly, fluently, and with increasing speed, choosing appropriate letter shapes and writing implements"
+      ],
+      "Writing - Composition": [
+        "Plan writing by identifying audience, purpose, and appropriate form",
+        "Note and develop initial ideas, drawing on reading and research",
+        "Draft and write, selecting appropriate grammar and vocabulary",
+        "Describe settings, characters, and atmosphere in narratives",
+        "Integrate dialogue to convey character and advance action in narratives",
+        "Precis longer passages",
+        "Use devices to build cohesion within and across paragraphs",
+        "Use organisational and presentational devices to structure text and guide the reader",
+        "Evaluate and edit writing, proposing changes to enhance effects and clarify meaning",
+        "Ensure consistent and correct use of tense, subject-verb agreement, and register",
+        "Proofread for spelling and punctuation errors",
+        "Perform compositions with appropriate intonation, volume, and movement"
+      ],
+      "Writing - Vocabulary, Grammar, and Punctuation": [
+        "Develop understanding of vocabulary and structures appropriate for formal speech and writing, including subjunctive forms",
+        "Use passive verbs to affect the presentation of information in a sentence",
+        "Use the perfect form of verbs to mark relationships of time and cause",
+        "Use expanded noun phrases to convey complicated information concisely",
+        "Use modal verbs or adverbs to indicate degrees of possibility",
+        "Use relative clauses beginning with who, which, where, when, whose, that, or with an implied relative pronoun",
+        "Learn the grammar for years 5 and 6 as specified in English Appendix 2",
+        "Indicate grammatical and other features by using commas to clarify meaning or avoid ambiguity in writing",
+        "Use hyphens to avoid ambiguity",
+        "Use brackets, dashes, or commas to indicate parenthesis",
+        "Use semi-colons, colons, or dashes to mark boundaries between independent clauses",
+        "Use a colon to introduce a list",
+        "Punctuate bullet points consistently"
+      ]
+    },
+    "Maths": {
+      "Number - number and place value": [
+        "Read, write, order and compare numbers up to 10,000,000 and determine the value of each digit",
+        "Round any whole number to a required degree of accuracy",
+        "Use negative numbers in context, and calculate intervals across zero",
+        "Solve number and practical problems that involve all of the above"
+      ],
+      "Number - addition, subtraction, multiplication and division": [
+        "Multiply multi-digit numbers up to 4 digits by a two-digit whole number using the formal written method of long multiplication",
+        "Divide numbers up to 4 digits by a two-digit whole number using the formal written method of long division, and interpret remainders as whole number remainders, fractions, or by rounding, as appropriate for the context",
+        "Divide numbers up to 4 digits by a two-digit number using the formal written method of short division where appropriate, interpreting remainders according to the context",
+        "Perform mental calculations, including with mixed operations and large numbers",
+        "Identify common factors, common multiples and prime numbers",
+        "Use their knowledge of the order of operations to carry out calculations involving the four operations",
+        "Solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why",
+        "Solve problems involving addition, subtraction, multiplication and division",
+        "Use estimation to check answers to calculations and determine, in the context of a problem, an appropriate degree of accuracy"
+      ],
+      "Number - fractions (including decimals and percentages)": [
+        "Use common factors to simplify fractions; use common multiples to express fractions in the same denomination",
+        "Compare and order fractions, including fractions > 1",
+        "Add and subtract fractions with different denominators and mixed numbers, using the concept of equivalent fractions",
+        "Multiply simple pairs of proper fractions, writing the answer in its simplest form",
+        "Divide proper fractions by whole numbers",
+        "Associate a fraction with division and calculate decimal fraction equivalents for a simple fraction",
+        "Identify the value of each digit in numbers given to three decimal places and multiply and divide numbers by 10, 100 and 1000 giving answers up to three decimal places",
+        "Multiply one-digit numbers with up to two decimal places by whole numbers",
+        "Use written division methods in cases where the answer has up to two decimal places",
+        "Solve problems which require answers to be rounded to specified degrees of accuracy",
+        "Recall and use equivalences between simple fractions, decimals and percentages, including in different contexts"
+      ],
+      "Ratio and proportion": [
+        "Solve problems involving the relative sizes of two quantities where missing values can be found by using integer multiplication and division facts",
+        "Solve problems involving the calculation of percentages and the use of percentages for comparison",
+        "Solve problems involving similar shapes where the scale factor is known or can be found",
+        "Solve problems involving unequal sharing and grouping using knowledge of fractions and multiples"
+      ],
+      "Algebra": [
+        "Use simple formulae",
+        "Generate and describe linear number sequences",
+        "Express missing number problems algebraically",
+        "Find pairs of numbers that satisfy an equation with two unknowns",
+        "Enumerate possibilities of combinations of two variables"
+      ],
+      "Measurement": [
+        "Solve problems involving the calculation and conversion of units of measure, using decimal notation up to three decimal places where appropriate",
+        "Use, read, write and convert between standard units, converting measurements of length, mass, volume and time from a smaller unit of measure to a larger unit, and vice versa, using decimal notation to up to three decimal places",
+        "Convert between miles and kilometres",
+        "Recognise that shapes with the same areas can have different perimeters and vice versa",
+        "Recognise when it is possible to use formulae for area and volume of shapes",
+        "Calculate the area of parallelograms and triangles",
+        "Calculate, estimate and compare volume of cubes and cuboids using standard units, including cubic centimetres (cm3) and cubic metres (m3), and extending to other units [for example, mm3 and km3]"
+      ],
+      "Geometry properties of shapes": [
+        "Draw 2-D shapes using given dimensions and angles",
+        "Recognise, describe and build simple 3-D shapes, including making nets",
+        "Compare and classify geometric shapes based on their properties and sizes and find unknown angles in any triangles, quadrilaterals, and regular polygons",
+        "Illustrate and name parts of circles, including radius, diameter and circumference and know that the diameter is twice the radius",
+        "Recognise angles where they meet at a point, are on a straight line, or are vertically opposite, and find missing angles"
+      ],
+      "Geometry position and direction": [
+        "Describe positions on the full coordinate grid (all four quadrants)",
+        "Draw and translate simple shapes on the coordinate plane, and reflect them in the axes"
+      ],
+      "Statistics": [
+        "Interpret and construct pie charts and line graphs and use these to solve problems",
+        "Calculate and interpret the mean as an average"
+      ]
+    },
+    "Science": {
+      "Living things and their habitats": [
+        "Describe how living things are classified into broad groups according to common observable characteristics and based on similarities and differences, including microorganisms, plants and animals",
+        "Give reasons for classifying plants and animals based on specific characteristics"
+      ],
+      "Animals including humans": [
+        "Identify and name the main parts of the human circulatory system, and describe the functions of the heart, blood vessels and blood",
+        "Recognise the impact of diet, exercise, drugs and lifestyle on the way their bodies function",
+        "Describe the ways in which nutrients and water are transported within animals, including humans"
+      ],
+      "Evolution and inheritance": [
+        "Recognise that living things have changed over time and that fossils provide information about living things that inhabited the Earth millions of years ago",
+        "Recognise that living things produce offspring of the same kind, but normally offspring vary and are not identical to their parents",
+        "Identify how animals and plants are adapted to suit their environment in different ways and that adaptation may lead to evolution"
+      ],
+      "Light": [
+        "Recognise that light appears to travel in straight lines",
+        "Use the idea that light travels in straight lines to explain that objects are seen because they give out or reflect light into the eye",
+        "Explain that we see things because light travels from light sources to our eyes or from light sources to objects and then to our eyes",
+        "Use the idea that light travels in straight lines to explain why shadows have the same shape as the objects that cast them"
+      ],
+      "Electricity": [
+        "Associate the brightness of a lamp or the volume of a buzzer with the number and voltage of cells used in the circuit",
+        "Compare and give reasons for variations in how components function, including the brightness of bulbs, the loudness of buzzers and the on/off position of switches",
+        "Use recognised symbols when representing a simple circuit in a diagram"
+      ]
+    },
+    "History": {
+      "Changes in Britain from the Stone Age to the Iron Age": [
+        "Late Neolithic hunter-gatherers and early farmers, e.g., Skara Brae",
+        "Bronze Age religion, technology, and travel, e.g., Stonehenge",
+        "Iron Age hill forts: tribal kingdoms, farming, art, and culture"
+      ],
+      "The Roman Empire and its impact on Britain": [
+        "Julius Caesar's attempted invasion in 55-54 BC",
+        "The Roman Empire by AD 42 and the power of its army",
+        "Successful invasion by Claudius and conquest, including Hadrian's Wall",
+        "British resistance, e.g., Boudica",
+        "'Romanisation' of Britain: sites such as Caerwent and the impact of technology, culture, and beliefs, including early Christianity"
+      ],
+      "Britain's settlement by Anglo-Saxons and Scots": [
+        "Roman withdrawal from Britain in c. AD 410 and the fall of the western Roman Empire",
+        "Scots invasions from Ireland to north Britain (now Scotland)",
+        "Anglo-Saxon invasions, settlements, and kingdoms: place names and village life",
+        "Anglo-Saxon art and culture",
+        "Christian conversion - Canterbury, Iona, and Lindisfarne"
+      ],
+      "The Viking and Anglo-Saxon struggle for the Kingdom of England to the time of Edward the Confessor": [
+        "Viking raids and invasion",
+        "Resistance by Alfred the Great and Athelstan, first king of England",
+        "Further Viking invasions and Danegeld",
+        "Anglo-Saxon laws and justice",
+        "Edward the Confessor and his death in 1066"
+      ],
+      "Local history study": [
+        "A study over time tracing how several aspects of national history are reflected in the locality (this can go beyond 1066)",
+        "A study of an aspect of history or a site dating from a period beyond 1066 that is significant in the locality.",
+        "A study of an aspect or theme in British history that extends pupils' chronological knowledge beyond 1066"
+      ],
+      "Non-European societies providing contrasts with British history": [
+        "Early Islamic civilization, including a study of Baghdad c. AD 900",
+        "Mayan civilization c. AD 900",
+        "Benin (West Africa) c. AD 900-1300"
+      ]
+    },
+    "Geography": {
+      "Locational knowledge": [
+        "Locate the world's countries, focusing on Europe, North and South America, and including the location of Russia",
+        "Name and locate counties and cities of the United Kingdom, geographical regions, and key topographical features, and understand how some aspects have changed over time",
+        "Identify the position and significance of latitude, longitude, Equator, Northern Hemisphere, Southern Hemisphere, the Tropics of Cancer and Capricorn, Arctic and Antarctic Circle, the Prime/Greenwich Meridian, and time zones"
+      ],
+      "Place knowledge": [
+        "Understand geographical similarities and differences through the study of human and physical geography of a region of the United Kingdom, a region in a European country, and a region within North or South America"
+      ],
+      "Human and physical geography": [
+        "Describe and understand key aspects of physical geography, including climate zones, biomes and vegetation belts, rivers, mountains, volcanoes and earthquakes, and the water cycle",
+        "Describe and understand key aspects of human geography, including types of settlement and land use, economic activity, including trade links, and the distribution of natural resources including energy, food, minerals, and water"
+      ],
+      "Geographical skills and fieldwork": [
+        "Use maps, atlases, globes, and digital/computer mapping to locate countries and describe features studied",
+        "Use compass directions, four and six-figure grid references, symbols, and keys to build knowledge of the United Kingdom and the wider world",
+        "Use fieldwork to observe, measure, record, and present the human and physical features in the local area using a range of methods, including sketch maps, plans, graphs, and digital technologies"
+      ]
+    },
+    "Computing": {
+      "Programming": [
+        "Design, write, and debug programs to accomplish specific goals, including controlling or simulating physical systems, and solve problems by decomposing them into smaller parts",
+        "Use sequence, selection, and repetition in programs; work with variables and various forms of input and output",
+        "Use logical reasoning to explain how simple algorithms work and to detect and correct errors in algorithms and programs"
+      ],
+      "Computer networks and internet": [
+        "Understand computer networks, including the internet, and how they provide multiple services such as the World Wide Web, and recognize the opportunities they offer for communication and collaboration",
+        "Use search technologies effectively, appreciate how results are selected and ranked, and be discerning in evaluating digital content"
+      ],
+      "Software and digital devices": [
+        "Select, use, and combine a variety of software (including internet services) on a range of digital devices to design and create programs, systems, and content that accomplish given goals",
+        "Use technology safely, respectfully, and responsibly; recognize acceptable/unacceptable behavior; identify a range of ways to report concerns about content and contact"
+      ]
+    },
+    "Art and Design": {
+      "Technique Development": [
+        "Develop techniques, including control and use of materials, with creativity, experimentation, and an increasing awareness of different kinds of art, craft, and design"
+      ],
+      "Sketchbook Creation": [
+        "Create sketchbooks to record observations and use them to review and revisit ideas"
+      ],
+      "Mastery of Techniques": [
+        "Improve mastery of art and design techniques, including drawing, painting, and sculpture with a range of materials such as pencil, charcoal, paint, and clay"
+      ],
+      "Study of Great Artists": [
+        "Learn about great artists, architects, and designers in history"
+      ]
+    },
+    "Music": {
+      "Performance Skills": [
+        "Play and perform in solo and ensemble contexts, using voices and playing musical instruments with increasing accuracy, fluency, control, and expression"
+      ],
+      "Improvisation and Composition": [
+        "Improvise and compose music for a range of purposes using the inter-related dimensions of music"
+      ],
+      "Aural Skills": [
+        "Listen with attention to detail and recall sounds with increasing aural memory"
+      ],
+      "Notation": ["Use and understand staff and other musical notations"],
+      "Appreciation of Music": [
+        "Appreciate and understand a wide range of high-quality live and recorded music drawn from different traditions, and from great composers and musicians"
+      ],
+      "Historical Understanding": [
+        "Develop an understanding of the history of music"
+      ]
+    },
+    "PE": {
+      "Fundamental Skills": [
+        "Use running, jumping, throwing and catching in isolation and in combination"
+      ],
+      "Competitive Games": [
+        "Play competitive games, modified where appropriate (e.g., badminton, basketball, cricket, football, hockey, netball, rounders, and tennis), and apply basic principles suitable for attacking and defending"
+      ],
+      "Physical Development": [
+        "Develop flexibility, strength, technique, control and balance (e.g., through athletics and gymnastics)"
+      ],
+      "Creative Expression": [
+        "Perform dances using a range of movement patterns"
+      ],
+      "Outdoor and Adventurous Activities": [
+        "Take part in outdoor and adventurous activity challenges both individually and within a team"
+      ],
+      "Self-assessment and Improvement": [
+        "Compare their performances with previous ones and demonstrate improvement to achieve their personal best"
+      ]
+    },
+    "French": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "German": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
+    },
+    "Spanish": {
+      "Listening Skills": [
+        "Listen attentively to spoken language and show understanding by joining in and responding"
+      ],
+      "Language Exploration": [
+        "Explore the patterns and sounds of language through songs and rhymes and link the spelling, sound and meaning of words"
+      ],
+      "Speaking Skills": [
+        "Engage in conversations; ask and answer questions; express opinions and respond to those of others; seek clarification and help",
+        "Speak in sentences, using familiar vocabulary, phrases and basic language structures",
+        "Develop accurate pronunciation and intonation so that others understand when they are reading aloud or using familiar words and phrases",
+        "Present ideas and information orally to a range of audiences"
+      ],
+      "Reading Skills": [
+        "Read carefully and show understanding of words, phrases and simple writing",
+        "Appreciate stories, songs, poems and rhymes in the language",
+        "Broaden their vocabulary and develop their ability to understand new words that are introduced into familiar written material, including through using a dictionary"
+      ],
+      "Writing Skills": [
+        "Write phrases from memory, and adapt these to create new sentences, to express ideas clearly",
+        "Describe people, places, things and actions orally and in writing"
+      ]
     }
   }
 }
