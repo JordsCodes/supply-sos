@@ -15,6 +15,12 @@ function Root({ index, setIndex }) {
     "/lesson-plan",
   ];
 
+  const onPromptPage =
+    url === "/year-group" ||
+    url === "/subject" ||
+    url === "/topic" ||
+    url === "/curriculum-aim";
+
   const goForward = () => {
     setIndex(index + 1);
   };
@@ -44,10 +50,7 @@ function Root({ index, setIndex }) {
             Let&apos;s get started
           </Link>
         )}
-        {(url === "/year-group" ||
-          url === "/subject" ||
-          url === "/topic" ||
-          url === "/curriculum-aim") && (
+        {onPromptPage && (
           <>
             <Link
               onClick={goBack}
